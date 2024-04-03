@@ -12,7 +12,7 @@ All'interno della cartella `Analisi rapporto studente-tutor` sono presenti i cod
 
 La cartella `Analisi time capacity` presenta il codice dell'analisi del volume, del numero di studenti allocati e del numero di coppie e gruppi creati in base alla time capacity dei tutor.
 
-## Analisi della Variazione WG
+## Analisi della Variazione del peso wg
 
 All'interno della cartella `Variazione wg` sono presenti analisi che determinano le variazioni nel numero di gruppi, lezioni individuali e il tempo impiegato in base al parametro w_g.
 
