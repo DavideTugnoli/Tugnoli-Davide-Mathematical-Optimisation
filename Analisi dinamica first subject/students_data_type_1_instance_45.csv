@@ -1,0 +1,301 @@
+Student ID,School,Class,Subjects,Time Required,Grades,Social Disadvantage,Accepts Group,Home Help,Equipment,Year,Not Enough Help at Home,Weak student,Critical Year,Matriculation,Registration Date,Leaving Date
+0,School V4,E,"['Physical Education', 'English']","[3, 1]","[4, 5]",0,True,0,0,12,1.0,1,2,advanced,198,211
+1,School I2,E,"['History', 'Literature', 'English']","[3, 1, 1]","[4, 3, 1]",0,True,1,0,9,1.0,1,0,N,296,310
+2,School W2,A,"['English', 'Foreign Language']","[4, 3]","[0, 4]",0,True,1,0,6,0.5,0,0,N,15,30
+3,School V1,D,['English'],[2],[0],0,True,0,0,7,1.0,3,0,N,79,92
+4,School U,B,['Maths'],[1],[2],1,True,2,0,11,0.5,0,1,N,136,148
+5,School N4,A,"['Physical Education', 'English', 'Foreign Language']","[1, 1, 3]","[5, 5, 4]",1,False,2,0,7,2.0,0,0,N,229,244
+6,School U,B,"['History', 'Maths']","[3, 1]","[5, 3]",0,True,2,0,11,0.5,1,1,N,65,80
+7,School A1,B,['Physical Education'],[4],[2],0,True,0,0,5,0.5,0,0,N,19,32
+8,School S1,D,['History'],[2],[3],0,True,0,0,9,0.5,1,0,N,187,203
+9,School C3,E,"['History', 'Maths']","[1, 2]","[4, 3]",0,False,0,0,10,1.0,0,0,N,19,36
+10,School W3,C,['History'],[3],[2],0,True,2,0,6,0.5,2,0,N,58,76
+11,School J3,D,"['English', 'Physical Education']","[3, 2]","[1, 1]",1,True,2,0,12,1.0,0,2,advanced,235,250
+12,School Z3,B,['Physical Education'],[3],[5],1,True,2,0,9,0.5,0,0,N,87,98
+13,School K5,A,['Computer Science'],[1],[3],0,True,0,0,8,0.5,1,0,N,237,247
+14,School W6,B,['English'],[2],[1],0,False,1,0,10,0.5,1,0,N,215,228
+15,School A,A,['English'],[2],[4],0,False,2,0,12,0.5,2,2,advanced,77,91
+16,School E,C,['Maths'],[2],[2],1,False,0,0,4,1.0,1,0,N,158,168
+17,School Q7,A,['Maths'],[1],[2],0,True,1,0,9,0.5,0,0,N,242,256
+18,School U,B,['Maths'],[1],[1],1,True,2,0,11,2.0,1,1,basic,163,178
+19,School F4,C,"['English', 'Physical Education', 'Science', 'History']","[3, 1, 2, 1]","[0, 4, 1, 4]",0,True,0,0,10,0.5,0,0,N,54,69
+20,School X2,C,['History'],[3],[1],0,False,0,0,7,0.5,1,0,N,254,267
+21,School I5,B,['Foreign Language'],[3],[5],0,True,0,0,5,0.5,0,0,N,1,15
+22,School E5,B,['English'],[1],[2],1,True,0,0,9,2.0,0,0,N,137,154
+23,School G3,E,['Geography'],[2],[1],3,True,1,0,4,0.5,0,0,N,298,314
+24,School Z3,B,"['Literature', 'History', 'Physical Education', 'Maths']","[1, 2, 2, 2]","[3, 5, 5, 5]",0,True,0,0,9,0.5,0,0,N,239,252
+25,School T,E,['Foreign Language'],[1],[0],0,False,0,0,5,0.5,1,0,N,148,160
+26,School Q,C,"['English', 'Maths']","[2, 3]","[1, 4]",0,True,2,0,10,1.0,0,0,N,12,29
+27,School W3,C,"['Maths', 'History']","[2, 3]","[0, 2]",0,True,2,0,6,1.0,0,0,N,168,182
+28,School B,C,"['Physical Education', 'English', 'Literature', 'History']","[2, 2, 2, 2]","[5, 5, 4, 5]",0,True,0,0,9,0.5,0,0,N,3,20
+29,School L3,C,['English'],[1],[2],0,False,2,0,6,0.5,1,0,N,36,45
+30,School Q2,E,"['English', 'Physical Education']","[2, 1]","[0, 3]",0,True,2,0,6,0.5,0,0,N,177,192
+31,School E7,B,['Physical Education'],[1],[0],0,False,2,0,6,0.5,1,0,N,230,242
+32,School E1,C,"['Physical Education', 'English']","[2, 2]","[0, 3]",1,True,1,0,8,1.0,0,0,N,171,184
+33,School Y6,C,['English'],[1],[2],0,True,2,0,11,1.5,1,1,basic,118,134
+34,School Q5,B,"['History', 'Foreign Language', 'Physical Education']","[2, 1, 4]","[1, 1, 5]",2,True,1,0,6,1.0,0,0,N,230,242
+35,School L6,E,"['Literature', 'English']","[3, 2]","[5, 1]",0,False,1,0,9,2.0,1,0,N,141,153
+36,School K6,B,['Science'],[3],[0],1,True,1,0,10,1.0,1,0,N,163,177
+37,School T6,D,['History'],[4],[5],1,False,0,0,12,0.5,0,2,advanced,23,38
+38,School R6,D,['Economics'],[1],[0],0,True,0,0,11,1.0,0,1,N,0,14
+39,School Z3,C,"['Maths', 'English']","[3, 2]","[3, 0]",1,False,2,0,8,0.5,1,0,N,153,169
+40,School W3,C,['History'],[4],[1],0,True,0,0,6,1.0,3,0,N,207,222
+41,School E2,C,"['Geography', 'Art']","[1, 3]","[5, 2]",0,True,2,0,4,1.0,0,0,N,52,66
+42,School L2,E,['History'],[3],[5],0,True,0,0,5,1.5,1,0,N,75,90
+43,School O1,C,['Physical Education'],[1],[0],0,True,1,0,7,0.5,3,0,N,125,142
+44,School X1,E,"['English', 'Science']","[3, 1]","[1, 5]",0,True,2,0,10,0.5,1,0,N,80,96
+45,School Z3,B,['Literature'],[1],[4],1,True,2,0,9,0.5,1,0,N,219,233
+46,School O,E,"['Physical Education', 'History']","[2, 2]","[5, 4]",0,False,1,0,5,1.0,1,0,N,233,248
+47,School W,C,['Art'],[3],[3],1,True,1,0,4,1.0,1,0,N,99,115
+48,School P2,A,"['Maths', 'English']","[1, 2]","[5, 3]",0,False,0,0,6,0.5,1,0,N,291,305
+49,School F7,C,"['Physical Education', 'History', 'Computer Science']","[1, 1, 4]","[3, 3, 3]",0,True,0,0,12,1.0,0,2,advanced,155,171
+50,School J7,A,"['History', 'English', 'Foreign Language']","[2, 1, 2]","[0, 4, 5]",0,False,0,0,6,1.0,0,0,N,13,26
+51,School S3,C,['Maths'],[3],[1],0,False,1,0,4,0.5,1,0,N,227,242
+52,School P2,D,"['Foreign Language', 'History']","[1, 2]","[3, 4]",0,True,2,0,7,0.5,0,0,N,92,104
+53,School G3,E,['Science'],[1],[0],0,False,0,0,4,0.5,0,0,N,201,218
+54,School N,D,"['Physical Education', 'History']","[2, 1]","[3, 4]",0,False,0,0,11,1.0,0,1,N,79,91
+55,School H3,B,['Maths'],[1],[0],1,True,0,0,10,0.5,0,0,N,127,138
+56,School L3,E,['Maths'],[2],[0],0,True,1,0,12,0.5,2,2,advanced,133,148
+57,School O6,C,['Physical Education'],[2],[5],1,False,2,0,11,1.0,1,1,advanced,197,212
+58,School P2,D,"['History', 'Foreign Language']","[3, 1]","[3, 2]",0,True,2,0,7,0.5,2,0,N,158,175
+59,School S3,A,['History'],[2],[0],2,False,0,0,7,1.5,0,0,N,78,93
+60,School W2,A,"['English', 'History']","[4, 2]","[1, 3]",0,True,1,0,6,0.5,0,0,N,125,138
+61,School S,C,['English'],[1],[1],2,True,2,0,10,2.0,1,0,N,99,114
+62,School V4,E,"['Maths', 'English', 'Physical Education', 'Computer Science']","[3, 1, 1, 3]","[4, 4, 0, 2]",1,True,2,0,12,1.0,0,2,advanced,52,68
+63,School L1,A,['Economics'],[1],[5],1,False,1,0,11,1.5,0,1,basic,83,92
+64,School O4,C,['Physical Education'],[3],[0],1,False,1,0,9,0.5,0,0,N,119,134
+65,School Z3,B,['History'],[2],[5],0,True,2,0,9,2.0,1,0,N,150,164
+66,School Y2,A,['English'],[2],[1],2,True,2,0,10,1.0,2,0,N,125,141
+67,School G1,A,['English'],[2],[3],0,True,2,0,11,0.5,2,1,advanced,239,255
+68,School J4,B,['History'],[2],[1],1,True,0,0,10,2.0,2,0,N,49,63
+69,School S1,C,['English'],[3],[1],0,False,0,0,4,0.5,1,0,N,46,61
+70,School K1,E,"['Physical Education', 'Maths', 'Computer Science']","[2, 3, 1]","[3, 5, 5]",0,True,1,0,8,1.0,0,0,N,191,207
+71,School B,C,"['Foreign Language', 'English', 'Physical Education']","[4, 3, 2]","[2, 2, 5]",0,True,2,0,5,0.5,2,0,N,20,33
+72,School Z,C,"['Maths', 'Literature']","[3, 2]","[0, 5]",2,True,0,0,9,1.0,1,0,N,66,76
+73,School H4,E,['Physical Education'],[2],[1],0,True,2,0,9,0.5,0,0,N,223,239
+74,School O1,C,['Physical Education'],[2],[0],0,True,1,0,7,0.5,0,0,N,239,250
+75,School D4,C,"['English', 'Art']","[1, 3]","[3, 4]",0,True,2,0,4,0.5,2,0,N,176,193
+76,School L7,C,"['Maths', 'English']","[4, 3]","[4, 4]",0,True,2,0,6,1.0,0,0,N,36,53
+77,School W4,E,"['Maths', 'English', 'Science', 'Physical Education']","[1, 3, 2, 2]","[4, 0, 1, 5]",0,False,0,0,10,0.5,0,0,N,49,67
+78,School B,C,['English'],[3],[5],2,True,2,0,9,0.5,0,0,N,255,265
+79,School B,C,"['Maths', 'English']","[3, 4]","[1, 1]",0,True,0,0,5,0.5,0,0,N,218,232
+80,School P2,D,"['English', 'History']","[3, 3]","[4, 5]",1,True,0,0,7,2.0,0,0,N,275,287
+81,School U1,A,"['Physical Education', 'History']","[3, 2]","[1, 5]",1,False,0,0,12,0.5,1,2,advanced,179,192
+82,School K1,B,"['Maths', 'Science', 'Art', 'Geography']","[4, 1, 1, 4]","[4, 3, 0, 0]",0,False,0,0,4,0.5,0,0,N,30,42
+83,School Q1,B,"['Literature', 'English']","[3, 2]","[3, 3]",0,False,1,0,9,2.0,0,0,N,21,33
+84,School V3,E,['Foreign Language'],[3],[1],2,True,1,0,7,1.0,0,0,N,36,53
+85,School O1,B,['History'],[2],[4],0,True,1,0,7,1.0,3,0,N,289,299
+86,School L3,E,"['History', 'Computer Science', 'Maths']","[2, 2, 1]","[1, 5, 0]",1,True,0,0,12,0.5,0,2,advanced,230,245
+87,School B6,B,"['History', 'Economics']","[1, 2]","[4, 4]",1,True,0,0,11,0.5,1,1,basic,199,220
+88,School R5,D,"['History', 'English']","[1, 2]","[0, 5]",0,True,0,0,5,0.5,0,0,N,188,202
+89,School L6,C,"['History', 'English']","[3, 2]","[0, 2]",0,True,1,0,11,0.5,1,1,basic,126,141
+90,School K1,A,"['Foreign Language', 'English']","[2, 2]","[1, 2]",0,True,1,0,5,0.5,0,0,N,112,122
+91,School V4,E,['Physical Education'],[1],[4],1,False,1,0,8,2.0,1,0,N,1,15
+92,School V5,A,['English'],[2],[4],0,False,1,0,8,1.0,2,0,N,167,181
+93,School K2,A,['History'],[3],[4],0,True,2,0,7,2.0,0,0,N,29,46
+94,School J1,E,"['Maths', 'English', 'Physical Education']","[3, 3, 4]","[1, 4, 2]",0,False,1,0,5,0.5,1,0,N,69,84
+95,School Y5,A,['English'],[2],[2],0,False,2,0,10,0.5,1,0,N,102,113
+96,School T6,E,['English'],[3],[3],0,True,1,0,7,1.0,0,0,N,11,25
+97,School U,D,['History'],[2],[0],0,True,1,0,9,0.5,0,0,N,200,217
+98,School Z3,B,"['English', 'Physical Education']","[2, 2]","[5, 5]",0,True,1,0,9,0.5,2,0,N,235,253
+99,School K1,A,"['Science', 'Maths', 'Physical Education', 'History']","[2, 4, 1, 2]","[2, 5, 4, 4]",1,False,1,0,10,0.5,0,0,N,22,34
+100,School D,E,['Physical Education'],[1],[2],1,False,0,0,12,0.5,0,2,advanced,112,125
+101,School K5,A,"['English', 'Computer Science']","[3, 1]","[4, 2]",0,True,2,0,8,0.5,0,0,N,165,179
+102,School M5,A,"['Maths', 'Science']","[1, 1]","[0, 1]",1,False,0,0,10,0.5,2,0,N,162,172
+103,School Y5,A,"['Geography', 'Maths']","[3, 4]","[5, 2]",0,False,1,0,4,0.5,2,0,N,257,272
+104,School K,B,['Literature'],[2],[5],0,True,1,0,9,1.0,2,0,N,177,194
+105,School R4,D,"['Maths', 'History']","[3, 1]","[4, 1]",0,False,1,0,11,0.5,1,1,N,282,300
+106,School S,C,"['Physical Education', 'Computer Science']","[3, 2]","[3, 0]",1,False,0,0,12,0.5,2,2,advanced,98,109
+107,School L,E,"['History', 'English']","[4, 1]","[0, 4]",0,True,1,0,9,0.5,2,0,N,10,30
+108,School K2,C,['Art'],[3],[3],1,False,0,0,4,0.5,0,0,N,158,171
+109,School B3,D,"['Computer Science', 'Maths']","[2, 1]","[0, 5]",1,False,1,0,8,3.0,1,0,N,276,292
+110,School R,A,"['Maths', 'Physical Education', 'History', 'Foreign Language']","[1, 1, 1, 2]","[3, 3, 5, 4]",0,True,2,0,6,0.5,0,0,N,248,259
+111,School I,D,"['Maths', 'Computer Science', 'English', 'History']","[1, 2, 2, 1]","[2, 2, 0, 4]",0,True,0,0,8,0.5,0,0,N,74,91
+112,School K5,A,"['Maths', 'Computer Science', 'English']","[1, 1, 2]","[4, 3, 3]",2,True,0,0,8,1.0,1,0,N,190,204
+113,School T3,D,"['English', 'Foreign Language', 'History', 'Maths']","[1, 1, 1, 2]","[4, 2, 4, 4]",0,False,0,0,6,1.0,1,0,N,234,247
+114,School C2,D,['Maths'],[1],[1],0,True,0,0,5,0.5,0,0,N,255,271
+115,School P5,C,['Science'],[2],[4],2,True,1,0,4,0.5,1,0,N,244,262
+116,School B3,B,"['English', 'Physical Education']","[2, 3]","[0, 3]",2,True,1,0,10,0.5,0,0,N,236,244
+117,School U,B,"['History', 'Maths', 'Economics']","[4, 2, 3]","[1, 3, 1]",0,True,1,0,11,0.5,2,1,advanced,67,79
+118,School C3,D,"['Physical Education', 'Economics']","[3, 3]","[1, 2]",0,True,2,0,11,1.0,1,1,N,161,175
+119,School T1,D,"['Maths', 'English']","[1, 3]","[1, 1]",2,True,1,0,5,0.5,1,0,N,49,63
+120,School X3,D,['English'],[3],[4],0,True,1,0,9,1.0,1,0,N,248,261
+121,School Q,C,"['Science', 'Physical Education', 'Maths']","[3, 2, 4]","[2, 1, 3]",0,True,1,0,10,4.0,1,0,N,208,222
+122,School V6,D,['Maths'],[3],[3],0,True,1,0,4,0.5,0,0,N,261,276
+123,School X3,E,['Science'],[3],[4],1,True,2,0,4,0.5,1,0,N,298,311
+124,School C2,B,['History'],[3],[1],1,True,1,0,10,0.5,1,0,N,34,45
+125,School D2,E,['Maths'],[2],[3],1,True,1,0,6,0.5,0,0,N,221,237
+126,School M,E,"['Physical Education', 'English']","[2, 1]","[5, 4]",0,True,0,0,5,0.5,1,0,N,93,110
+127,School D1,A,"['Foreign Language', 'History', 'English']","[1, 1, 1]","[2, 0, 3]",0,True,1,0,5,2.0,1,0,N,16,29
+128,School B6,D,"['Computer Science', 'Maths', 'Physical Education', 'History']","[3, 3, 3, 3]","[5, 1, 3, 2]",0,True,2,0,8,0.5,0,0,N,124,141
+129,School W3,E,['Economics'],[2],[1],0,False,2,0,11,0.5,1,1,advanced,154,167
+130,School W2,A,['English'],[3],[1],1,True,1,0,6,0.5,1,0,N,50,63
+131,School K7,E,['Maths'],[1],[3],0,True,0,0,9,1.0,0,0,N,94,107
+132,School A7,A,"['English', 'Physical Education']","[1, 2]","[5, 4]",0,False,0,0,8,0.5,1,0,N,193,207
+133,School G3,E,"['Geography', 'Science']","[3, 2]","[1, 1]",1,True,1,0,4,0.5,1,0,N,113,126
+134,School Q,C,['English'],[2],[1],0,True,2,0,10,0.5,0,0,N,22,40
+135,School C5,D,['Physical Education'],[2],[0],0,True,0,0,8,0.5,2,0,N,183,196
+136,School L4,D,"['English', 'Maths']","[3, 2]","[3, 0]",0,True,1,0,8,0.5,0,0,N,228,241
+137,School Z4,A,"['Computer Science', 'English']","[3, 1]","[0, 4]",0,True,2,0,12,0.5,0,2,advanced,86,101
+138,School U3,A,"['Computer Science', 'Maths']","[3, 3]","[3, 5]",1,True,1,0,12,0.5,0,2,advanced,156,168
+139,School V4,E,"['Physical Education', 'English', 'Computer Science']","[1, 2, 4]","[2, 4, 3]",0,True,2,0,12,1.0,0,2,advanced,174,187
+140,School A5,B,['English'],[1],[1],0,False,0,0,6,1.0,1,0,N,159,172
+141,School U3,C,"['Physical Education', 'English']","[2, 3]","[0, 0]",0,True,1,0,8,0.5,0,0,N,92,106
+142,School Z6,E,"['Literature', 'History']","[3, 1]","[0, 1]",1,True,2,0,9,0.5,0,0,N,206,221
+143,School L3,E,"['Maths', 'Computer Science', 'History']","[2, 2, 3]","[0, 2, 1]",1,True,1,0,12,1.0,0,2,advanced,143,155
+144,School H4,E,['English'],[1],[4],1,True,1,0,9,1.0,2,0,N,246,262
+145,School Q,C,"['English', 'Maths']","[1, 1]","[2, 1]",0,True,2,0,10,1.0,1,0,N,34,45
+146,School J2,E,"['Physical Education', 'Computer Science']","[3, 1]","[0, 5]",0,True,1,0,12,1.0,1,2,advanced,121,136
+147,School S6,E,['Physical Education'],[4],[5],3,False,0,0,12,1.0,0,2,advanced,150,162
+148,School N3,A,"['Physical Education', 'History']","[2, 2]","[0, 1]",0,False,1,0,6,0.5,0,0,N,228,242
+149,School V4,E,"['Physical Education', 'English']","[1, 1]","[5, 5]",0,True,1,0,12,1.0,0,2,advanced,221,235
+150,School M,D,['History'],[1],[2],0,True,0,0,9,1.0,0,0,N,215,232
+151,School W6,C,"['Maths', 'Physical Education', 'English', 'History']","[3, 2, 3, 1]","[5, 5, 2, 0]",2,False,1,0,6,0.5,1,0,N,273,288
+152,School K1,B,"['English', 'Maths', 'History']","[2, 3, 1]","[3, 5, 4]",0,False,2,0,12,0.5,1,2,advanced,291,305
+153,School R,A,['History'],[1],[0],1,False,2,0,11,1.0,0,1,advanced,245,264
+154,School Z3,B,['Literature'],[2],[3],0,True,0,0,9,0.5,0,0,N,207,222
+155,School I6,E,['Computer Science'],[1],[4],3,True,1,0,12,0.5,1,2,advanced,104,122
+156,School S1,D,['English'],[1],[2],2,True,2,0,12,1.0,2,2,advanced,115,131
+157,School E1,C,"['English', 'History']","[3, 1]","[2, 3]",0,True,1,0,8,1.0,0,0,N,185,202
+158,School S3,C,"['History', 'Maths']","[1, 1]","[2, 2]",0,True,0,0,8,1.0,1,0,N,87,100
+159,School D5,B,['Physical Education'],[4],[3],0,True,0,0,8,1.0,2,0,N,44,57
+160,School K1,D,"['English', 'Physical Education', 'Maths', 'Computer Science']","[4, 1, 2, 3]","[2, 5, 3, 0]",0,True,0,0,12,0.5,0,2,advanced,283,297
+161,School W,D,"['Physical Education', 'Maths']","[3, 1]","[5, 3]",1,True,1,0,12,0.5,0,2,advanced,213,224
+162,School D3,D,"['History', 'English']","[1, 3]","[0, 3]",0,False,2,0,11,1.0,1,1,basic,18,30
+163,School A,E,['History'],[2],[4],0,True,2,0,10,0.5,2,0,N,246,259
+164,School Q7,A,['Maths'],[1],[3],1,True,2,0,9,0.5,1,0,N,90,104
+165,School K3,B,"['History', 'English', 'Maths']","[1, 2, 4]","[3, 4, 4]",0,True,2,0,11,0.5,1,1,N,34,43
+166,School D1,E,['History'],[3],[0],1,True,0,0,5,0.5,2,0,N,181,193
+167,School U,A,"['Computer Science', 'Physical Education', 'Maths']","[1, 3, 1]","[5, 5, 3]",1,False,0,0,12,0.5,2,2,advanced,166,180
+168,School L7,E,['English'],[1],[1],0,True,0,0,4,0.5,0,0,N,57,76
+169,School B4,E,"['Art', 'Geography']","[4, 1]","[3, 5]",1,False,1,0,4,1.0,2,0,N,144,161
+170,School Q6,E,['Geography'],[3],[1],0,False,0,0,4,1.0,1,0,N,63,81
+171,School B3,E,"['Maths', 'Foreign Language']","[1, 4]","[2, 5]",0,False,0,0,6,1.0,2,0,N,142,155
+172,School M7,B,"['Foreign Language', 'Maths', 'Physical Education']","[4, 4, 3]","[0, 4, 2]",2,False,1,0,5,0.5,1,0,N,240,254
+173,School Q1,A,['Maths'],[2],[3],0,True,2,0,12,0.5,0,2,advanced,211,224
+174,School O1,C,"['Maths', 'Physical Education']","[1, 2]","[5, 1]",1,True,1,0,7,0.5,0,0,N,192,209
+175,School A3,D,"['Physical Education', 'History', 'Foreign Language']","[1, 4, 2]","[1, 0, 4]",1,True,2,0,7,1.0,0,0,N,219,232
+176,School O1,C,['Maths'],[2],[4],1,True,1,0,7,1.0,3,0,N,172,187
+177,School U6,B,['English'],[4],[4],0,False,0,0,7,1.0,0,0,N,165,179
+178,School O1,C,"['Physical Education', 'English']","[1, 2]","[1, 1]",0,True,1,0,7,0.5,1,0,N,259,274
+179,School N6,D,"['English', 'Physical Education', 'Literature', 'History']","[1, 1, 2, 4]","[3, 1, 3, 3]",0,True,0,0,9,0.5,2,0,N,92,109
+180,School G4,E,['History'],[1],[1],0,False,0,0,8,1.0,2,0,N,13,27
+181,School K1,A,"['Maths', 'Physical Education']","[2, 3]","[0, 5]",1,True,1,0,10,0.5,0,0,N,186,199
+182,School R5,D,['English'],[1],[4],0,False,2,0,9,0.5,0,0,N,51,66
+183,School K2,C,['Maths'],[3],[1],0,False,2,0,11,1.0,1,1,basic,276,291
+184,School Y6,C,"['History', 'English']","[2, 1]","[5, 3]",0,True,2,0,11,0.5,0,1,N,187,200
+185,School S7,D,"['History', 'Maths']","[1, 1]","[3, 5]",0,False,0,0,9,0.5,1,0,N,259,273
+186,School O,E,"['History', 'Physical Education']","[3, 1]","[1, 0]",2,True,1,0,11,0.5,0,1,basic,69,83
+187,School H3,A,"['English', 'Maths']","[1, 3]","[4, 1]",0,True,2,0,12,0.5,1,2,advanced,272,290
+188,School Z1,A,"['History', 'Physical Education']","[3, 2]","[3, 2]",0,True,1,0,7,0.5,0,0,N,215,228
+189,School A2,E,['Science'],[1],[0],0,True,2,0,4,1.0,0,0,N,230,245
+190,School D1,D,"['Science', 'Art']","[2, 4]","[2, 1]",1,True,0,0,4,1.0,0,0,N,78,95
+191,School W4,B,"['Geography', 'English']","[1, 3]","[5, 3]",0,True,1,0,4,1.0,2,0,N,186,202
+192,School M1,D,"['English', 'Literature']","[2, 1]","[5, 3]",0,False,1,0,9,0.5,1,0,N,254,266
+193,School U,B,"['English', 'Maths']","[2, 2]","[0, 1]",3,True,1,0,11,1.0,1,1,basic,185,198
+194,School B,C,"['English', 'Maths']","[3, 1]","[3, 3]",0,True,1,0,5,0.5,1,0,N,183,194
+195,School Z6,A,"['History', 'Maths']","[1, 1]","[3, 0]",1,True,0,0,8,1.0,0,0,N,214,229
+196,School A4,B,"['Maths', 'English']","[2, 2]","[5, 2]",0,False,0,0,12,0.5,0,2,advanced,233,246
+197,School V3,D,['English'],[3],[1],0,True,1,0,8,0.5,0,0,N,131,145
+198,School H1,B,['English'],[3],[2],0,True,2,0,9,0.5,1,0,N,47,64
+199,School T1,D,['Computer Science'],[4],[4],0,True,1,0,12,1.5,2,2,advanced,196,208
+200,School O3,A,['Maths'],[2],[5],2,True,2,0,4,1.5,2,0,N,281,299
+201,School P5,B,"['Computer Science', 'History', 'Maths']","[3, 2, 3]","[0, 3, 4]",0,False,2,0,8,0.5,2,0,N,103,116
+202,School O3,E,['History'],[3],[3],3,True,1,0,5,2.0,2,0,N,264,278
+203,School B,E,"['History', 'Maths', 'English', 'Physical Education']","[3, 2, 1, 1]","[0, 3, 4, 3]",0,False,2,0,5,0.5,0,0,N,267,281
+204,School H3,C,"['History', 'English', 'Maths', 'Physical Education']","[4, 1, 2, 2]","[0, 2, 3, 3]",3,True,1,0,11,0.5,0,1,basic,110,126
+205,School B1,A,['Maths'],[2],[1],2,True,2,0,5,2.0,1,0,N,83,99
+206,School K5,A,['Computer Science'],[2],[4],0,True,0,0,8,0.5,0,0,N,246,260
+207,School Q,C,"['Physical Education', 'Computer Science']","[1, 1]","[1, 3]",1,True,2,0,12,0.5,2,2,advanced,200,213
+208,School D3,A,['Maths'],[4],[5],0,False,0,0,10,0.5,0,0,N,237,250
+209,School S5,A,"['English', 'History']","[1, 1]","[4, 3]",1,False,0,0,8,0.5,1,0,N,122,137
+210,School U4,C,"['English', 'Maths']","[4, 4]","[0, 3]",1,True,2,0,5,0.5,0,0,N,4,18
+211,School B,C,['Physical Education'],[3],[5],0,True,2,0,5,1.0,1,0,N,53,65
+212,School E1,C,"['English', 'History', 'Physical Education']","[2, 4, 2]","[2, 0, 0]",1,True,1,0,8,1.0,0,0,N,298,311
+213,School E1,C,['Physical Education'],[3],[0],1,True,2,0,8,1.5,1,0,N,278,295
+214,School A,D,['Maths'],[4],[3],0,True,0,0,9,1.0,1,0,N,194,208
+215,School Z5,D,['Maths'],[3],[1],0,False,2,0,10,0.5,3,0,N,287,300
+216,School Y4,D,['Physical Education'],[3],[0],0,True,2,0,5,0.5,1,0,N,188,202
+217,School G,B,['History'],[3],[0],2,True,1,0,10,0.5,2,0,N,223,237
+218,School P5,A,"['English', 'Physical Education']","[1, 2]","[2, 2]",2,True,2,0,10,1.0,0,0,N,98,111
+219,School B,C,['Foreign Language'],[4],[1],2,True,2,0,5,1.0,2,0,N,238,252
+220,School Q2,D,['Physical Education'],[2],[5],1,True,0,0,5,0.5,0,0,N,112,128
+221,School H3,D,"['English', 'History', 'Foreign Language']","[1, 2, 1]","[2, 2, 5]",0,True,1,0,6,1.0,0,0,N,171,182
+222,School G2,D,"['Geography', 'Art', 'English']","[1, 1, 3]","[0, 5, 3]",0,True,2,0,4,0.5,1,0,N,208,225
+223,School L4,B,"['Physical Education', 'Maths']","[3, 1]","[2, 4]",0,False,1,0,8,0.5,2,0,N,68,78
+224,School X2,C,['History'],[3],[4],0,True,2,0,11,2.0,2,1,basic,289,302
+225,School S3,C,"['Physical Education', 'Foreign Language']","[4, 3]","[3, 5]",2,False,1,0,5,0.5,0,0,N,165,179
+226,School A7,D,['Geography'],[2],[0],0,True,1,0,4,1.0,1,0,N,134,149
+227,School C4,C,['Maths'],[3],[0],1,False,0,0,9,1.0,1,0,N,242,258
+228,School E4,D,"['Computer Science', 'Maths']","[3, 3]","[3, 3]",0,True,0,0,12,0.5,1,2,advanced,251,264
+229,School E1,C,['Physical Education'],[2],[0],0,True,1,0,8,1.0,1,0,N,194,212
+230,School I3,E,['Maths'],[3],[3],2,False,2,0,4,0.5,3,0,N,228,241
+231,School N2,B,"['History', 'Maths']","[1, 1]","[3, 2]",0,False,1,0,5,1.0,0,0,N,221,238
+232,School Z3,A,['Foreign Language'],[1],[2],1,True,0,0,7,1.0,0,0,N,204,220
+233,School G2,B,"['Physical Education', 'History', 'Maths']","[1, 2, 2]","[0, 2, 1]",0,True,1,0,9,0.5,1,0,N,251,263
+234,School D7,A,"['Maths', 'History']","[2, 2]","[1, 0]",0,True,0,0,6,2.0,1,0,N,244,258
+235,School A3,B,['Foreign Language'],[1],[5],2,True,1,0,5,1.0,1,0,N,160,172
+236,School R6,D,['Economics'],[2],[1],3,True,0,0,11,1.0,1,1,N,117,130
+237,School P6,B,['Physical Education'],[1],[1],0,False,2,0,11,0.5,2,1,N,49,67
+238,School A2,C,['English'],[2],[3],3,True,0,0,8,1.0,2,0,N,243,255
+239,School T2,B,['History'],[1],[1],1,False,2,0,8,0.5,1,0,N,178,194
+240,School X3,A,"['Computer Science', 'Maths', 'History']","[3, 4, 3]","[0, 2, 5]",0,False,1,0,12,1.0,0,2,advanced,231,241
+241,School K1,A,['English'],[1],[4],0,False,2,0,4,0.5,2,0,N,289,303
+242,School I1,C,"['Geography', 'English', 'Maths', 'Science']","[2, 1, 3, 1]","[5, 3, 0, 3]",0,False,1,0,4,0.5,1,0,N,5,17
+243,School P2,D,"['Foreign Language', 'History']","[2, 3]","[2, 0]",0,True,1,0,7,0.5,1,0,N,248,258
+244,School E1,B,['History'],[3],[0],0,False,1,0,12,1.0,1,2,advanced,247,266
+245,School Q,B,"['Physical Education', 'Foreign Language', 'English', 'Maths']","[4, 4, 4, 1]","[4, 5, 1, 3]",3,True,2,0,6,0.5,0,0,N,112,126
+246,School H6,D,['Maths'],[3],[1],0,True,2,0,7,1.0,0,0,N,227,244
+247,School P2,D,"['History', 'English', 'Maths', 'Foreign Language']","[1, 1, 3, 2]","[3, 3, 3, 0]",1,True,1,0,7,0.5,2,0,N,216,235
+248,School O1,C,['Physical Education'],[1],[0],0,True,2,0,7,0.5,0,0,N,65,79
+249,School Z5,C,['History'],[2],[5],0,False,2,0,6,1.5,0,0,N,252,267
+250,School M6,E,['History'],[2],[0],0,True,1,0,12,0.5,1,2,advanced,14,28
+251,School W2,E,['Economics'],[3],[1],1,True,2,0,11,1.0,2,1,advanced,201,218
+252,School J,A,['Physical Education'],[4],[3],0,True,2,0,10,1.0,0,0,N,60,75
+253,School W3,C,"['Physical Education', 'History', 'Maths']","[3, 4, 2]","[2, 1, 4]",0,True,1,0,6,0.5,0,0,N,109,122
+254,School W1,A,"['Physical Education', 'History']","[4, 3]","[4, 0]",2,True,2,0,9,0.5,0,0,N,207,220
+255,School J6,C,"['English', 'Maths']","[2, 1]","[5, 4]",0,False,2,0,9,1.0,1,0,N,33,47
+256,School A3,B,"['Maths', 'Foreign Language']","[2, 1]","[1, 0]",0,False,0,0,5,0.5,0,0,N,29,37
+257,School C7,C,"['English', 'Maths']","[1, 1]","[2, 4]",1,True,1,0,5,1.0,0,0,N,182,197
+258,School W,C,"['Art', 'Maths']","[1, 2]","[5, 1]",0,False,1,0,4,0.5,0,0,N,93,106
+259,School M7,C,"['English', 'Science']","[2, 1]","[1, 3]",0,True,2,0,4,0.5,0,0,N,57,72
+260,School Z3,B,['Physical Education'],[2],[5],2,True,1,0,9,0.5,1,0,N,95,110
+261,School O5,A,"['English', 'Physical Education', 'Computer Science']","[1, 2, 1]","[5, 4, 2]",0,True,0,0,12,0.5,2,2,advanced,259,272
+262,School G4,C,['Physical Education'],[1],[4],0,True,2,0,5,0.5,0,0,N,115,131
+263,School G2,B,"['History', 'Maths', 'Physical Education', 'English']","[2, 2, 4, 1]","[3, 2, 3, 2]",3,True,2,0,11,1.0,0,1,N,166,178
+264,School V1,D,"['Economics', 'Physical Education']","[2, 3]","[1, 1]",1,False,2,0,11,1.0,3,1,basic,116,132
+265,School O3,A,['Maths'],[1],[3],0,False,2,0,8,0.5,1,0,N,223,237
+266,School K4,B,['Science'],[4],[1],3,True,0,0,10,1.5,2,0,N,87,99
+267,School T3,A,['Geography'],[2],[1],1,True,1,0,4,0.5,0,0,N,170,187
+268,School L3,D,['Maths'],[1],[3],0,True,2,0,11,0.5,1,1,advanced,295,311
+269,School Q5,B,"['Physical Education', 'Maths']","[3, 2]","[4, 3]",0,True,2,0,6,0.5,1,0,N,101,112
+270,School E3,C,['Maths'],[1],[0],0,False,1,0,7,1.0,1,0,N,277,294
+271,School T6,B,"['Literature', 'History']","[1, 3]","[1, 2]",0,False,2,0,9,0.5,1,0,N,278,290
+272,School C1,D,"['Foreign Language', 'Physical Education', 'History', 'English']","[2, 4, 3, 4]","[3, 2, 3, 4]",0,False,1,0,7,1.0,1,0,N,205,219
+273,School Q,C,['Science'],[3],[2],0,True,1,0,10,1.0,0,0,N,121,135
+274,School Q,C,"['History', 'Science', 'English']","[1, 3, 3]","[4, 5, 1]",1,True,2,0,10,1.0,0,0,N,159,171
+275,School B,C,['English'],[3],[4],1,True,1,0,9,0.5,3,0,N,92,103
+276,School F6,D,['English'],[1],[2],0,False,1,0,8,0.5,0,0,N,69,78
+277,School R6,D,['Economics'],[2],[0],0,True,1,0,11,0.5,0,1,basic,195,214
+278,School G2,D,['Maths'],[4],[4],0,True,0,0,4,0.5,0,0,N,176,187
+279,School O1,C,['Maths'],[1],[5],2,True,2,0,7,1.0,2,0,N,278,292
+280,School W3,C,['History'],[3],[1],0,True,0,0,6,0.5,1,0,N,175,187
+281,School J,A,['English'],[3],[1],0,True,1,0,5,1.0,1,0,N,87,100
+282,School A4,D,"['History', 'Maths']","[2, 2]","[3, 0]",2,True,2,0,12,1.0,0,2,advanced,290,303
+283,School X3,E,['Science'],[3],[5],0,False,2,0,10,0.5,1,0,N,1,16
+284,School S2,D,['Maths'],[3],[1],2,True,0,0,11,1.0,2,1,basic,296,309
+285,School U6,B,['Computer Science'],[4],[3],0,True,0,0,8,1.0,2,0,N,151,166
+286,School R1,E,['Physical Education'],[2],[1],0,True,0,0,12,0.5,1,2,advanced,73,86
+287,School G7,A,"['English', 'Physical Education']","[2, 3]","[4, 3]",0,True,2,0,7,0.5,0,0,N,173,185
+288,School F7,C,['English'],[1],[1],0,False,2,0,8,0.5,2,0,N,180,197
+289,School S3,C,['History'],[1],[2],0,True,0,0,8,1.0,0,0,N,69,83
+290,School C4,C,['Physical Education'],[1],[1],1,True,2,0,8,0.5,1,0,N,156,169
+291,School T6,E,['English'],[4],[2],0,True,1,0,7,0.5,1,0,N,188,199
+292,School B,C,"['Physical Education', 'Foreign Language', 'English', 'History']","[3, 1, 2, 3]","[4, 4, 2, 2]",1,True,0,0,5,0.5,1,0,N,88,103
+293,School D4,C,['English'],[1],[4],0,True,0,0,6,1.5,1,0,N,51,64
+294,School G2,D,['English'],[3],[3],0,True,1,0,4,0.5,2,0,N,281,297
+295,School J4,C,"['Computer Science', 'History']","[2, 3]","[0, 1]",0,True,2,0,8,0.5,0,0,N,115,127
+296,School Y1,A,"['History', 'English']","[2, 2]","[3, 2]",1,True,0,0,11,0.5,0,1,advanced,28,38
+297,School R,D,"['Maths', 'Physical Education']","[1, 1]","[0, 0]",0,False,1,0,10,0.5,1,0,N,129,142
+298,School Y5,C,"['English', 'Maths', 'Science', 'Physical Education']","[1, 2, 3, 1]","[4, 2, 2, 1]",0,False,2,0,10,0.5,3,0,N,243,261
+299,School Q4,C,['Maths'],[3],[2],0,False,1,0,4,1.0,1,0,N,20,35

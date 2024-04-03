@@ -1,0 +1,26 @@
+Student ID,School,Class,Subjects,Time Required,Grades,Social Disadvantage,Accepts Group,Home Help,Equipment,Year,Not Enough Help at Home,Weak student,Critical Year,Matriculation
+0,School D,E,['History'],[2],[1],0,True,2,0,11,0.5,0,1,N
+1,School G,E,['Maths'],[1],[2],1,True,1,0,9,0.5,1,0,N
+2,School I,E,"['Art', 'Geography', 'Science']","[4, 4, 2]","[2, 2, 3]",0,True,0,0,4,0.5,2,0,N
+3,School M,C,"['Maths', 'History']","[1, 4]","[5, 3]",0,True,2,0,5,0.5,0,0,N
+4,School N,A,"['History', 'Maths', 'English', 'Science']","[1, 2, 2, 2]","[3, 5, 4, 1]",0,True,1,0,10,1.5,0,0,N
+5,School I,D,"['Maths', 'Foreign Language', 'English', 'History']","[2, 3, 3, 2]","[3, 0, 1, 5]",1,True,2,0,5,1.0,1,0,N
+6,School A,C,"['Foreign Language', 'Maths']","[1, 3]","[3, 1]",0,True,1,0,7,0.5,0,0,N
+7,School H,E,['Physical Education'],[2],[2],0,True,1,0,12,1.0,1,2,advanced
+8,School N,C,['Physical Education'],[1],[5],0,True,2,0,12,1.0,1,2,advanced
+9,School E,D,"['Maths', 'English']","[3, 1]","[2, 0]",1,True,0,0,11,0.5,0,1,advanced
+10,School E,C,"['Maths', 'Foreign Language']","[1, 1]","[3, 1]",3,True,1,0,5,0.5,0,0,N
+11,School C,A,"['Foreign Language', 'Maths', 'History']","[1, 4, 3]","[4, 1, 2]",0,True,1,0,6,0.5,2,0,N
+12,School M,C,"['History', 'Physical Education']","[3, 2]","[4, 0]",0,True,2,0,12,1.0,1,2,advanced
+13,School K,E,"['English', 'History']","[2, 1]","[0, 2]",0,True,0,0,6,1.0,0,0,N
+14,School D,C,"['Literature', 'English']","[3, 1]","[1, 2]",0,True,2,0,9,1.0,1,0,N
+15,School O,C,['History'],[2],[2],0,True,0,0,6,1.0,3,0,N
+16,School F,C,['Physical Education'],[1],[5],0,True,2,0,11,0.5,0,1,advanced
+17,School I,A,['Foreign Language'],[2],[0],0,True,0,0,5,1.0,0,0,N
+18,School J,B,"['English', 'Maths']","[3, 2]","[4, 1]",0,True,1,0,11,0.5,1,1,basic
+19,School P,A,"['English', 'Economics']","[4, 1]","[4, 1]",0,True,0,0,11,1.0,1,1,N
+20,School E,A,['Science'],[1],[5],0,True,2,0,4,0.5,1,0,N
+21,School P,A,['History'],[3],[0],1,True,1,0,5,0.5,1,0,N
+22,School H,A,"['Maths', 'Science', 'Physical Education']","[3, 3, 1]","[3, 3, 5]",1,True,0,0,10,0.5,0,0,N
+23,School C,B,['Economics'],[1],[5],1,True,1,0,11,2.0,2,1,N
+24,School P,E,"['English', 'History']","[2, 2]","[2, 0]",0,True,2,0,9,0.5,2,0,N

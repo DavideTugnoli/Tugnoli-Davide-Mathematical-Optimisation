@@ -1,0 +1,11 @@
+Student ID,School,Class,Subjects,Time Required,Grades,Social Disadvantage,Accepts Group,Home Help,Equipment,Year,Not Enough Help at Home,Weak student,Critical Year,Matriculation
+0,School C,B,"['English', 'Maths']","[2, 1]","[2, 3]",1,True,2,0,4,1.0,1,0,N
+1,School D,C,"['History', 'English']","[1, 1]","[4, 3]",2,True,0,0,11,0.5,0,1,N
+2,School D,C,"['English', 'History']","[1, 3]","[0, 1]",0,True,2,0,11,0.5,1,1,basic
+3,School E,B,"['Foreign Language', 'Maths']","[2, 3]","[2, 1]",0,True,2,0,7,2.0,1,0,N
+4,School E,D,"['History', 'Maths']","[2, 3]","[0, 3]",0,True,1,0,10,0.5,1,0,N
+5,School B,E,['English'],[1],[3],0,True,2,0,11,0.5,1,1,N
+6,School F,E,['Physical Education'],[2],[1],0,True,1,0,5,1.0,0,0,N
+7,School A,C,['History'],[1],[1],1,True,0,0,7,0.5,1,0,N
+8,School F,B,"['History', 'English']","[1, 2]","[3, 0]",0,True,0,0,10,1.0,2,0,N
+9,School F,D,['Science'],[2],[4],2,True,2,0,4,1.0,0,0,N

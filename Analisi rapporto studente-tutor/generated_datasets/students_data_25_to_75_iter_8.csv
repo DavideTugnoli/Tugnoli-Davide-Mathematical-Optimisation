@@ -1,0 +1,26 @@
+Student ID,School,Class,Subjects,Time Required,Grades,Social Disadvantage,Accepts Group,Home Help,Equipment,Year,Not Enough Help at Home,Weak student,Critical Year,Matriculation
+0,School I,C,"['Physical Education', 'Maths']","[3, 4]","[0, 2]",0,True,2,0,7,0.5,1,0,N
+1,School G,C,"['Physical Education', 'English', 'History']","[1, 1, 4]","[2, 1, 2]",3,True,2,0,6,0.5,1,0,N
+2,School P,C,['History'],[2],[2],1,True,0,0,10,0.5,0,0,N
+3,School L,D,['Physical Education'],[1],[3],1,True,1,0,9,1.5,1,0,N
+4,School P,D,"['Art', 'Science', 'Geography', 'English']","[2, 3, 4, 2]","[1, 0, 5, 0]",3,True,2,0,4,1.0,1,0,N
+5,School H,C,['History'],[1],[2],1,True,2,0,9,1.0,0,0,N
+6,School O,B,['History'],[1],[0],0,True,2,0,9,0.5,1,0,N
+7,School A,B,['Physical Education'],[3],[5],0,True,2,0,9,1.0,0,0,N
+8,School J,B,"['Maths', 'Geography', 'English']","[1, 2, 1]","[1, 1, 3]",2,True,1,0,4,3.0,1,0,N
+9,School G,C,"['Physical Education', 'Maths']","[2, 2]","[5, 5]",0,True,2,0,5,2.0,3,0,N
+10,School D,A,['Physical Education'],[3],[1],1,True,1,0,6,0.5,2,0,N
+11,School F,B,['English'],[1],[4],2,True,0,0,4,1.5,0,0,N
+12,School O,D,['Geography'],[1],[4],1,True,2,0,4,0.5,2,0,N
+13,School G,B,"['Foreign Language', 'English', 'Physical Education', 'Maths']","[1, 3, 1, 1]","[1, 5, 0, 5]",3,True,1,0,7,0.5,1,0,N
+14,School A,E,"['History', 'Computer Science', 'Physical Education', 'English']","[3, 2, 1, 1]","[4, 4, 5, 1]",0,True,1,0,8,0.5,1,0,N
+15,School P,A,"['History', 'Physical Education', 'Maths']","[4, 2, 1]","[2, 4, 3]",1,True,2,0,10,0.5,2,0,N
+16,School E,B,"['Physical Education', 'English']","[1, 2]","[5, 3]",0,True,0,0,10,1.5,1,0,N
+17,School K,D,['Maths'],[3],[3],2,True,0,0,4,0.5,1,0,N
+18,School M,B,"['History', 'Physical Education', 'Foreign Language']","[4, 1, 3]","[0, 3, 3]",2,True,2,0,6,0.5,0,0,N
+19,School P,D,"['Physical Education', 'Computer Science', 'Maths']","[3, 2, 1]","[1, 1, 1]",0,True,1,0,12,1.0,2,2,advanced
+20,School A,B,['Maths'],[1],[2],0,True,2,0,6,1.0,1,0,N
+21,School O,B,['English'],[3],[2],1,True,2,0,5,1.0,1,0,N
+22,School I,E,"['English', 'History', 'Maths']","[2, 1, 2]","[3, 0, 1]",1,True,0,0,6,0.5,0,0,N
+23,School C,A,['Maths'],[1],[3],0,True,2,0,7,2.0,0,0,N
+24,School F,C,"['Foreign Language', 'English', 'Physical Education']","[3, 2, 3]","[2, 1, 0]",0,True,1,0,5,1.0,1,0,N

@@ -1,0 +1,26 @@
+Mentor ID,Subjects,Max Group Capacity per Subject,Social Disadvantage Preference,Accepts Group,Time Capacity,Social Index,Student Year Preference,Social Preference,GPM,GPM_PM,GPM_SM,GPM_WM
+0,"['Biology', 'Chemistry']","[2, 5]",3,True,2,0,0,1,N,0,1,0.0
+1,"['Science', 'Biology', 'Economics']","[2, 5, 3]",3,True,5,0,1,3,N,0,1,0.0
+2,"['History', 'Economics', 'Geography']","[2, 5, 3]",0,True,6,0,1,3,N,0,1,0.0
+3,['Geography'],[3],1,True,1,0,N,3,S,1,0,4.5
+4,"['Maths', 'Literature']","[3, 5]",0,True,1,1,1,0,N,0,1,0.0
+5,"['English', 'Chemistry', 'Foreign Language']","[5, 4, 3]",0,True,6,0,1,1,N,0,1,0.0
+6,['Geography'],[4],0,True,4,1,N,1,N,0,1,0.0
+7,['Physics'],[5],0,True,5,0,N,3,M,1,0,3.0
+8,['Maths'],[5],0,True,1,0,1,0,N,0,1,0.0
+9,"['Economics', 'Foreign Language', 'Physical Education']","[5, 2, 5]",3,True,1,0,0,3,N,0,1,0.0
+10,"['Literature', 'Physics', 'English']","[2, 3, 4]",3,True,1,0,N,0,N,0,1,0.0
+11,"['History', 'English']","[4, 5]",1,True,5,0,N,3,N,0,1,0.0
+12,"['Art', 'Chemistry', 'Maths', 'Biology']","[3, 3, 4, 3]",1,True,6,0,N,0,N,0,1,0.0
+13,"['Physical Education', 'English']","[2, 2]",0,True,6,0,N,1,N,0,1,0.0
+14,"['Biology', 'Science']","[4, 5]",1,True,2,0,N,0,N,0,1,0.0
+15,"['History', 'Science', 'Art']","[3, 2, 4]",0,True,2,0,N,1,W,1,3,1.5
+16,"['Music', 'Computer Science']","[5, 5]",3,True,2,1,1,0,N,0,1,0.0
+17,"['Literature', 'Chemistry', 'Economics']","[3, 5, 3]",1,True,6,0,N,1,N,0,1,0.0
+18,['Computer Science'],[3],3,True,6,0,1,1,N,0,1,0.0
+19,"['Art', 'Chemistry', 'English', 'Foreign Language']","[3, 4, 4, 4]",0,True,10,0,N,1,N,0,1,0.0
+20,"['English', 'Biology', 'Foreign Language']","[5, 5, 3]",1,True,8,0,2,1,N,0,1,0.0
+21,['Chemistry'],[5],1,True,3,3,N,1,N,0,1,0.0
+22,"['Literature', 'Computer Science', 'Foreign Language']","[3, 3, 3]",0,True,4,1,0,0,N,0,1,0.0
+23,"['Literature', 'Biology', 'Foreign Language']","[5, 5, 3]",1,True,4,1,1,1,N,0,1,0.0
+24,['History'],[2],1,True,2,0,1,3,N,0,1,0.0

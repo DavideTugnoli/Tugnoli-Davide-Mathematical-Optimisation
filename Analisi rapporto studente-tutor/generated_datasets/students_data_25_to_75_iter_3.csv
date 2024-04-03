@@ -1,0 +1,26 @@
+Student ID,School,Class,Subjects,Time Required,Grades,Social Disadvantage,Accepts Group,Home Help,Equipment,Year,Not Enough Help at Home,Weak student,Critical Year,Matriculation
+0,School O,B,['Science'],[1],[2],0,True,1,0,4,1.0,0,0,N
+1,School K,B,['Art'],[2],[2],3,True,2,0,4,1.5,2,0,N
+2,School P,A,['Maths'],[4],[0],0,True,2,0,11,1.0,1,1,N
+3,School J,E,"['English', 'Geography']","[3, 2]","[1, 5]",0,True,2,0,4,1.0,1,0,N
+4,School C,D,"['Economics', 'History', 'English', 'Physical Education']","[1, 2, 2, 1]","[3, 3, 1, 1]",0,True,2,0,11,2.0,2,1,basic
+5,School B,C,['Physical Education'],[4],[2],0,True,1,0,10,0.5,0,0,N
+6,School P,D,['History'],[3],[2],0,True,1,0,11,0.5,1,1,advanced
+7,School G,A,['Physical Education'],[1],[5],0,True,0,0,7,1.0,1,0,N
+8,School O,E,"['Maths', 'Science']","[1, 1]","[0, 0]",1,True,2,0,10,0.5,1,0,N
+9,School D,C,['Physical Education'],[1],[2],0,True,2,0,10,1.0,0,0,N
+10,School C,B,['Maths'],[1],[2],0,True,1,0,6,0.5,0,0,N
+11,School O,B,['Physical Education'],[2],[4],0,True,2,0,12,1.0,1,2,advanced
+12,School C,E,['Maths'],[1],[3],0,True,1,0,6,1.0,2,0,N
+13,School M,A,['Geography'],[3],[2],0,True,1,0,4,1.0,2,0,N
+14,School G,B,"['Physical Education', 'Maths', 'Science']","[3, 2, 2]","[3, 3, 4]",1,True,0,0,10,0.5,1,0,N
+15,School E,D,['Maths'],[2],[2],2,True,0,0,10,1.0,0,0,N
+16,School K,D,"['English', 'Maths', 'History']","[1, 3, 2]","[3, 4, 4]",1,True,0,0,7,1.0,2,0,N
+17,School N,A,"['History', 'Economics']","[1, 2]","[5, 2]",0,True,2,0,11,1.0,1,1,advanced
+18,School J,B,['Physical Education'],[2],[5],0,True,1,0,8,0.5,1,0,N
+19,School G,E,['English'],[4],[2],1,True,2,0,11,2.0,0,1,advanced
+20,School E,B,['History'],[2],[3],0,True,2,0,7,0.5,0,0,N
+21,School D,A,"['Maths', 'History']","[2, 2]","[5, 4]",0,True,0,0,8,2.0,3,0,N
+22,School B,E,"['English', 'History', 'Physical Education']","[1, 4, 3]","[3, 1, 5]",0,True,2,0,11,1.0,0,1,basic
+23,School B,C,"['Foreign Language', 'Physical Education']","[2, 2]","[0, 0]",0,True,1,0,6,0.5,2,0,N
+24,School F,D,"['Art', 'Science']","[3, 3]","[3, 4]",1,True,0,0,4,0.5,0,0,N

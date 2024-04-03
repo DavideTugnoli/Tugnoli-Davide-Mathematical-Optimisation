@@ -1,0 +1,6 @@
+Student ID,School,Class,Subjects,Time Required,Grades,Social Disadvantage,Accepts Group,Home Help,Equipment,Year,Not Enough Help at Home,Weak student,Critical Year,Matriculation
+0,School A,C,"['History', 'English']","[3, 2]","[1, 1]",2,True,0,0,8,0.5,1,0,N
+1,School C,E,['Economics'],[1],[0],0,True,1,0,11,0.5,2,1,N
+2,School C,E,"['English', 'Physical Education', 'Maths', 'Foreign Language']","[3, 2, 3, 2]","[4, 2, 3, 2]",1,True,2,0,7,0.5,2,0,N
+3,School C,D,['English'],[2],[4],0,True,0,0,9,1.0,0,0,N
+4,School B,C,"['History', 'English']","[2, 2]","[4, 4]",1,True,1,0,12,1.0,0,2,advanced

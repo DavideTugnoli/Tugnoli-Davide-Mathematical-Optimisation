@@ -1,0 +1,26 @@
+Mentor ID,Subjects,Max Group Capacity per Subject,Social Disadvantage Preference,Accepts Group,Time Capacity,Social Index,Student Year Preference,Social Preference,GPM,GPM_PM,GPM_SM,GPM_WM
+0,"['Music', 'Biology']","[3, 2]",3,True,10,0,1,1,N,0,1,0
+1,"['English', 'Literature', 'Art']","[5, 3, 5]",1,True,5,3,1,0,N,0,1,0
+2,"['Economics', 'Physics']","[3, 2]",0,True,2,3,N,1,N,0,1,0
+3,"['Economics', 'Maths', 'Physics', 'Chemistry']","[4, 5, 5, 4]",0,True,5,0,2,3,N,0,1,0
+4,"['Physics', 'Geography']","[3, 2]",1,True,1,3,2,1,N,0,1,0
+5,"['History', 'Science', 'Music']","[3, 5, 4]",1,True,5,1,N,0,N,0,1,0
+6,"['Literature', 'Physics', 'Geography']","[2, 2, 5]",3,True,2,0,N,0,M,1,0,3
+7,['English'],[3],0,True,6,0,N,0,N,0,1,0
+8,['Biology'],[4],0,True,5,1,N,3,N,0,1,0
+9,"['History', 'Art', 'Music']","[5, 5, 3]",1,True,1,1,N,1,N,0,1,0
+10,"['Music', 'Biology', 'Chemistry', 'Literature']","[3, 3, 5, 2]",1,True,6,1,N,1,M,1,0,3
+11,['Music'],[5],0,True,3,0,N,0,N,0,1,0
+12,['Biology'],[3],1,True,4,1,1,3,N,0,1,0
+13,"['Geography', 'Music']","[3, 2]",0,True,10,0,N,1,N,0,1,0
+14,"['Physical Education', 'Music']","[4, 5]",0,True,6,0,1,0,N,0,1,0
+15,"['Chemistry', 'Art', 'Physical Education']","[2, 4, 4]",1,True,5,1,1,3,N,0,1,0
+16,"['History', 'Literature', 'Physical Education']","[5, 2, 3]",0,True,9,1,N,1,N,0,1,0
+17,"['Art', 'Foreign Language', 'History']","[3, 4, 5]",1,True,2,1,2,3,N,0,1,0
+18,"['Maths', 'Physics']","[5, 4]",0,True,6,1,N,3,N,0,1,0
+19,['Physical Education'],[2],0,True,7,1,1,1,N,0,1,0
+20,"['Geography', 'Art']","[5, 4]",3,True,2,1,N,0,N,0,1,0
+21,"['Music', 'Physics', 'Foreign Language', 'Art']","[3, 2, 4, 2]",0,True,4,3,N,1,N,0,1,0
+22,"['Science', 'English']","[3, 2]",3,True,3,1,0,1,N,0,1,0
+23,['Chemistry'],[3],3,True,6,0,N,1,M,1,0,3
+24,"['Literature', 'Music', 'Economics']","[2, 3, 3]",0,True,6,0,N,0,N,0,1,0

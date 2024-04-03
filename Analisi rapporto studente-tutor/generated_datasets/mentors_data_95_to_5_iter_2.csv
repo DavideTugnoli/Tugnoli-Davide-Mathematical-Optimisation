@@ -1,0 +1,6 @@
+Mentor ID,Subjects,Max Group Capacity per Subject,Social Disadvantage Preference,Accepts Group,Time Capacity,Social Index,Student Year Preference,Social Preference,GPM,GPM_PM,GPM_SM,GPM_WM
+0,"['Geography', 'Art']","[5, 4]",3,True,2,0,2,0,N,0,1,0
+1,"['Physical Education', 'Biology', 'English', 'Music']","[3, 3, 3, 3]",3,True,6,0,N,0,M,1,0,3
+2,['Biology'],[3],3,True,8,0,N,0,N,0,1,0
+3,"['Economics', 'Computer Science', 'Biology', 'Foreign Language']","[2, 2, 2, 4]",1,True,5,0,1,0,N,0,1,0
+4,"['Computer Science', 'Art', 'History', 'Chemistry', 'Maths']","[4, 4, 3, 3, 5]",0,True,9,0,2,0,N,0,1,0
