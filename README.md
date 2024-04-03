@@ -1,4 +1,4 @@
-# Analisi del Progetto di Mathematical Optimization
+# Analisi del Progetto di Mathematical Optimisation
 
 ## Analisi dell'Impiego della Capacità dei Tutor
 
